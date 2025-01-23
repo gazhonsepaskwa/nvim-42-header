@@ -1,4 +1,4 @@
-# 42 Header for nvim
+# 42 Header for nvim (Tested with NVchad)
 
 ![image](https://github.com/user-attachments/assets/28f3a7bc-afd8-4f41-a4aa-9cdc8ce0c16c)
 
