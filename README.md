@@ -6,7 +6,7 @@
 
 ```
 
-chmod 700 autoinstall.sh && ./autoinstall.sh
+git clone https://github.com/gazhonsepaskwa/nvim-42-header.git && cd nvim-42-header && chmod 700 autoinstall.sh && ./autoinstall.sh && cd .. && rm -rf nvim-42-header
 
 ```
 
